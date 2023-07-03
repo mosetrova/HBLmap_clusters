@@ -1,0 +1,103 @@
+1  Cerebellar Grey Matter	10 2ary/3ary Visual Posterior (BA18/19p)	11 2ary Auditory Posterior (BA21p)	12 Premotor Posterior (BA6p)	13 Premotor Precentral (BA6prc)	14 1ary Visual Posterior (BA17p)	15 1ary Motor (BA4)	16 1ary Auditory (BA41/42)	17 1ary Visual Anterior (BA17a)	18 1ary Somatosensory (BA3/1/2)	19 Posterior Middle Temporal (BA37-pMT)	2  Anterior Supramarginal (BA40a)	20 Posterior Fusiform (BA37m)	21 FEF Lateral (BA8)	22 Premotor Medial (BA6m)	23 Insular Anterior Cortex	24 Cingulate Posterior (BA23p)	25 Posterior Inferior Temporal (BA20p)	26 2ary Auditory, language (BA22a)	27 2ary/3ary Visual Anterior (BA18/19a)	28 2ary Auditory, Wernicke (BA22p)	29 Precuneus (BA7m)	3  Posterior Superior Parietal (BA7p)	30 Premotor Anterior Lateral (BA6a)	31 Supramarginal Posterior (BA40p)	32 Ventrolateral Prefrontal, Broca (BA44)	33 Anterior Inferior Temporal (BA20a)	34 Dorsolateral Prefrontal (BA9)	35 Dorsolateral Prefrontal Medial (BA9m)	36 FEF Medial (BA8m)	37 2ary Auditory Anterior (BA21a)	38 Anterior Prefrontal (BA10)	39 Frontopolar (BA10fp)	4  Anterior Superior Parietal (BA5/BA7a)	40 Cingulate Anterior (BA32g)	41 Angular (BA39)	42 Cingulate Subcallosal (BA25)	43 Temporopolar (BA38)	44 Dorsolateral Prefrontal (BA46)	45 Ventrolateral Prefrontal, Broca (BA45)	46 Prefrontal Medial (BA10m)	47 Cingulate Posterior (BA31)	48 Cingulate Anterior (BA24)	49 Cingulate Anterior (BA32)	5  Retrosplenial (BA29/30)	50 Orbitofrontal (BA11)	51 Piriform Cortex	52 Amygdala	53 Insular Posterior Cortex	54 Entorhinal Cortex	55 Hippocampus, CA3 / Dentate Gyrus	56 Nucleus Accumbens	57 Caudate	58 Putamen	59 Deep Nuclei - Dentate Nucleus	6  Anterior Middle Temporal (BA37-aMT)	60 Superior Colliculus	61 Pulvinar Thalamus	62 Red Nucleus	63 Substantia Nigra	64 Globus Pallidus	65 Hippocampus, CA1	66 Subiculum	67 Ventral Anterior Thalamus	68 Medial Dorsal Thalamus	69 Hypothalamus	7  Orbitofrontal (BA47)	70 Ventral Lateral Thalamus	8  Cingulate Posterior (BA23a)	9  2ary Somatosensory Cortex	73 Corpus Callosum Anterior	74 Corpus Callosum Posterior
+angular gyrus, left, inferior bank of gyrus																																				1																																				
+angular gyrus, left, superior bank of gyrus																																				1																																				
+anterior hypothalamic area, left																																																																		1						
+anterior orbital gyrus, left																																														1																										
+arcuate nucleus of the hypothalamus, left																																																																		1						
+basolateral nucleus, left																																																1																								
+basomedial nucleus, left																																																1																								
+body of caudate nucleus, left																																																					1																			
+CA1 field, left																																																														1										
+CA3 field, left																																																			1																					
+central nucleus, left																																																1																								
+cingulate gyrus, frontal part, left, inferior bank of gyrus																																			1								1	1																												
+cingulate gyrus, frontal part, left, superior bank of gyrus																																			1								1	1																												
+cingulate gyrus, parietal part, left, inferior bank of gyrus																	1																									1																											1			
+cingulate gyrus, parietal part, left, superior bank of gyrus																	1																									1																											1			
+cingulate gyrus, retrosplenial part, left, inferior bank of gyrus																																													1																											
+cingulate gyrus, retrosplenial part, left, superior bank of gyrus																																													1																											
+cuneus, left, peristriate																				1																																																				
+cuneus, left, striate						1			1																																																															
+dentate gyrus, left																																																			1																					
+dentate nucleus, left																																																							1																	
+frontal operculum, left																										1														1																																
+fusiform gyrus, left, bank of cos													1							1																																																				
+fusiform gyrus, left, bank of the its													1							1																																																				
+fusiform gyrus, left, lateral bank of gyrus													1							1																																																				
+globus pallidus, external segment, left																																																													1											
+globus pallidus, internal segment, left																																																													1											
+gyrus rectus, left																																					1																																			
+head of caudate nucleus, left																																																					1																			
+Heschl's gyrus, left								1																																																																
+inferior frontal gyrus, opercular part, left																										1																																														
+inferior frontal gyrus, orbital part, left																																																																			1					
+inferior frontal gyrus, triangular part, left																																								1																																
+inferior occipital gyrus, left, inferior bank of gyrus																				1																																																				
+inferior occipital gyrus, left, superior bank of gyrus																				1																																																				
+inferior temporal gyrus, left, bank of mts																		1									1																													1																
+inferior temporal gyrus, left, bank of the its																		1									1																													1																
+inferior temporal gyrus, left, lateral bank of gyrus																		1									1																													1																
+lateral hypothalamic area, anterior region, left																																																																		1						
+lateral hypothalamic area, mammillary region, left																																																																		1						
+lateral hypothalamic area, tuberal region, left																																																																		1						
+lateral orbital gyrus, left																																														1																					1					
+lingual gyrus, left, peristriate		1																		1																																																				
+lingual gyrus, left, striate						1			1																																																															
+long insular gyri, left																																																	1																							
+middle frontal gyrus, left, inferior bank of gyrus																												1				1	1						1		1																															
+middle frontal gyrus, left, superior bank of gyrus																												1				1	1						1		1																															
+middle temporal gyrus, left, inferior bank of gyrus			1																												1																									1																
+middle temporal gyrus, left, superior bank of gyrus			1																												1																									1																
+nucleus accumbens, left																																																				1																				
+occipito-temporal gyrus, left, inferior bank of gyrus											1																																																													
+occipito-temporal gyrus, left, superior bank of gyrus											1																																																													
+parahippocampal gyrus, left, bank of the cos																																																		1																						
+parahippocampal gyrus, left, lateral bank of gyrus																																																		1																						
+paraventricular nuclei, left of thalamus, left																																																																	1							
+parietal operculum, left																																																																						1		
+parolfactory gyri, left																																					1																																			
+piriform cortex, left																																															1																									
+planum polare, left								1																																																																
+planum temporale, left																					1																																																			
+postcentral gyrus, left, bank of the central sulcus										1																																																														
+postcentral gyrus, left, bank of the posterior central sulcus										1																																																														
+postcentral gyrus, left, inferior lateral aspect of gyrus										1																																																														
+postcentral gyrus, left, superior lateral aspect of gyrus										1																																																														
+precentral gyrus, left, bank of the central sulcus					1		1																	1																																																
+precentral gyrus, left, bank of the precentral sulcus					1		1																	1																																																
+precentral gyrus, left, inferior lateral aspect of gyrus					1		1																	1																																																
+precentral gyrus, left, superior lateral aspect of gyrus					1		1																	1																																																
+precuneus, left, inferior lateral bank of gyrus																				1		1																																																		
+precuneus, left, superior lateral bank of gyrus																				1		1																																																		
+pulvinar of thalamus, left																																																										1														
+putamen, left																																																						1																		
+red nucleus, left																																																											1													
+reticular nucleus of thalamus, left																																																																				1				
+short insular gyri, left																1																																																								
+subcallosal cingulate gyrus, left																																					1																																			
+subiculum, left																																																															1									
+substantia nigra, pars compacta, left																																																												1												
+substantia nigra, pars reticulata, left																																																												1												
+superior colliculus, left																																																									1															
+superior frontal gyrus, left				1										1	1														1	1		1	1								1																															
+superior frontal gyrus, left, lateral bank of gyrus				1										1	1														1	1		1	1								1																															
+superior frontal gyrus, left, medial bank of gyrus				1										1	1														1	1		1	1								1																															
+superior occipital gyrus, left, inferior bank of gyrus																				1																																																				
+superior occipital gyrus, left, superior bank of gyrus																				1																																																				
+superior parietal lobule, left, inferior bank of gyrus																							1											1																																						
+superior parietal lobule, left, superior bank of gyrus																							1											1																																						
+superior rostral gyrus, left																																1	1								1																															
+superior temporal gyrus, left, inferior bank of gyrus								1											1		1																																																			
+superior temporal gyrus, left, lateral bank of gyrus								1											1		1																																																			
+supramarginal gyrus, left, inferior bank of gyrus												1													1																																															
+supramarginal gyrus, left, superior bank of gyrus												1													1																																															
+tail of caudate nucleus, left																																																					1																			
+temporal pole, left, inferior aspect																																						1																																		
+temporal pole, left, medial aspect																																						1																																		
+temporal pole, left, superior aspect																																						1																																		
+ventral anterior nucleus of thalamus, left																																																																1								
+VI, left, lateral hemisphere	1																																																																							
+VIIB, left, lateral hemisphere	1																																																																							
+VIIIA, left, lateral hemisphere	1																																																																							
+VIIIB, left, lateral hemisphere	1																																																																							
+corpus callosum																																																																							1	1

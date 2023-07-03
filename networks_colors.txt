@@ -1,0 +1,13 @@
+network	color
+default mode network	#8DD3C7
+dorsal attention network	#FFFFB3
+ventral attention network	#BEBADA
+visual network	#FB8072
+sensory motor network	#80B1D3
+auditory network	#FDB462
+task positive network	#B3DE69
+executive control network	#FCCDE5
+salience network	#999999
+basal ganglia network	#BC80BD
+frontal cortical network	#CCEBC5
+language network	#FFED6F

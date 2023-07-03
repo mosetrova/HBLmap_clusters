@@ -1,0 +1,11 @@
+Primary Cortex	#EF562D
+Secondary Cortex	#F6D258
+Associative Cortex	#D1AF94
+Limbic Cortex	#F0CEC5
+Basal Ganglia	#D13076
+Thalamus	#5C7148
+Hypothalamus	#88B14B
+Midbrain	#e05eb9
+White Matter	#0C4C8A
+Cerebellar White Matter	#5587A2
+Cerebellar Grey Matter	#97D5E0

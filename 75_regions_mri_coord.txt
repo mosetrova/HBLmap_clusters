@@ -1,0 +1,76 @@
+num	name	mri_x	mri_y	mri_z	network
+39	39 Frontopolar (BA10fp)	145	280	110	Default
+38	38 Anterior Prefrontal (BA10)	145	275	130	Default
+46	46 Prefrontal Medial (BA10m)	135	275	125	Default
+7	7  Orbitofrontal (BA47)	160	240	85	Frontoparietal
+34	34 Dorsolateral Prefrontal (BA9)	150	240	170	Default
+35	35 Dorsolateral Prefrontal Medial (BA9m)	135	240	150	Default
+40	40 Cingulate Anterior (BA32g)	135	240	125	Default
+44	44 Dorsolateral Prefrontal (BA46)	190	240	125	Frontoparietal
+45	45 Ventrolateral Prefrontal, Broca (BA45)	205	220	105	Frontoparietal
+50	50 Orbitofrontal (BA11)	150	240	75	Default
+21	21 FEF Lateral (BA8)	190	205	170	Default
+23	23 Insular Anterior Cortex	180	205	105	Cingulo-Opercular
+32	32 Ventrolateral Prefrontal, Broca (BA44)	205	205	135	Auditory
+36	36 FEF Medial (BA8m)	135	205	185	Frontoparietal
+43	43 Temporopolar (BA38)	180	200	65	Default
+49	49 Cingulate Anterior (BA32)	135	205	170	Frontoparietal
+56	56 Nucleus Accumbens	140	193	90	Default
+71	71 External Capsule	165	210	110	none
+73	73 Corpus Callosum Anterior	135	205	130	none
+57	57 Caudate	145	205	110	Frontoparietal
+22	22 Premotor Medial (BA6m)	140	190	190	Language
+30	30 Premotor Anterior Lateral (BA6a)	195	190	170	Default
+42	42 Cingulate Subcallosal (BA25)	140	190	85	Default
+48	48 Cingulate Anterior (BA24)	135	190	155	Cingulo-Opercular
+51	51 Piriform Cortex	165	180	80	Orbito-Affective
+1	1  Cerebellar Grey Matter	200	100	55	Dorsal-attention
+59	59 Deep Nuclei - Dentate Nucleus	150	110	60	Visual1
+75	75 Cerebellar White Matter	160	100	50	none
+12	12 Premotor Posterior (BA6p)	165	165	190	Dorsal-attention
+13	13 Premotor Precentral (BA6prc)	190	165	180	Language
+15	15 1ary Motor (BA4)	200	165	170	Somatomotor
+18	18 1ary Somatosensory (BA3/1/2)	215	165	155	Somatomotor
+26	26 2ary Auditory, language (BA22a)	215	165	110	Language
+33	33 Anterior Inferior Temporal (BA20a)	205	165	55	Default
+37	37 2ary Auditory Anterior (BA21a)	220	165	90	Default
+54	54 Entorhinal Cortex	155	165	60	Ventral-Multimodal
+58	58 Putamen	170	165	110	Cingulo-Opercular
+64	64 Globus Pallidus	155	192	98	Cingulo-Opercular
+67	67 Ventral Anterior Thalamus	145	170	120	Frontoparietal
+69	69 Hypothalamus	132	170	83	Default
+72	72 Internal Capsule	155	165	125	none
+52	52 Amygdala	155	165	75	Somatomotor
+16	16 1ary Auditory (BA41/42)	185	145	120	Somatomotor
+53	53 Insular Posterior Cortex	175	145	125	Somatomotor
+61	61 Pulvinar Thalamus	150	145	120	Frontoparietal
+62	62 Red Nucleus	140	145	115	Visual1
+63	63 Substantia Nigra	140	145	80	Frontoparietal
+65	65 Hippocampus, CA1	175	140	85	Posterior-Multimodal
+66	66 Subiculum	155	140	90	Default
+8	8  Cingulate Posterior (BA23a)	135	145	160	Cingulo-Opercular
+47	47 Cingulate Posterior (BA31)	135	145	180	Somatomotor
+55	55 Hippocampus, CA3 / Dentate Gyrus	170	140	95	Dorsal-attention
+68	68 Medial Dorsal Thalamus	140	145	115	Frontoparietal
+70	70 Ventral Lateral Thalamus	155	145	110	Cingulo-Opercular
+11	11 2ary Auditory Posterior (BA21p)	225	135	95	Auditory
+25	25 Posterior Inferior Temporal (BA20p)	210	135	70	Default
+74	74 Corpus Callosum Posterior	135	130	130	none
+2	2  Anterior Supramarginal (BA40a)	210	130	170	Somatomotor
+9	9  2ary Somatosensory Cortex	200	130	140	Somatomotor
+28	28 2ary Auditory, Wernicke (BA22p)	220	130	115	Auditory
+60	60 Superior Colliculus	135	130	95	Auditory
+4	4  Anterior Superior Parietal (BA5/BA7a)	180	115	190	Somatomotor
+5	5  Retrosplenial (BA29/30)	140	115	120	Frontoparietal
+24	24 Cingulate Posterior (BA23p)	135	115	140	Frontoparietal
+31	31 Supramarginal Posterior (BA40p)	195	115	180	Somatomotor
+3	3  Posterior Superior Parietal (BA7p)	175	105	175	Somatomotor
+6	6  Anterior Middle Temporal (BA37-aMT)	215	105	115	Language
+17	17 1ary Visual Anterior (BA17a)	165	105	95	Visual1
+20	20 Posterior Fusiform (BA37m)	185	105	75	Ventral-Multimodal
+27	27 2ary/3ary Visual Anterior (BA18/19a)	155	105	110	Visual2
+29	29 Precuneus (BA7m)	135	105	170	Cingulo-Opercular
+41	41 Angular (BA39)	215	105	130	Cingulo-Opercular
+10	10 2ary/3ary Visual Posterior (BA18/19p)	155	85	110	Visual2
+14	14 1ary Visual Posterior (BA17p)	165	85	90	Visual1
+19	19 Posterior Middle Temporal (BA37-pMT)	200	80	105	Dorsal-attention

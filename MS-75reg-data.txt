@@ -1,0 +1,298 @@
+1	170426_BM_pos_1-30_MS42_HA_355	MS	42	MS42	HA	355	52 Amygdala	Limbic cortex	56
+4	170426_pos_1-30_MS241_HB_226	MS	241	MS241	HB	226	52 Amygdala	Limbic cortex	100
+7	170426_pos_1-30_MS550_HC_415	MS	550	MS550	HC	415	52 Amygdala	Limbic cortex	257
+8	170426_pos_1-30_MS634_HD_593	MS	634	MS634	HD	593	52 Amygdala	Limbic cortex	260
+1	170426_BM_pos_1-30_MS17_HA_196	MS	17	MS17	HA	196	38 Anterior Prefrontal (BA10)	Associative cortex	28
+4	170426_pos_1-30_MS263_HB_350	MS	263	MS263	HB	350	38 Anterior Prefrontal (BA10)	Associative cortex	124
+6	170426_pos_1-30_MS530_HC_73	MS	530	MS530	HC	73	38 Anterior Prefrontal (BA10)	Associative cortex	235
+8	170426_pos_1-30_MS664_HD_297	MS	664	MS664	HD	297	38 Anterior Prefrontal (BA10)	Associative cortex	293
+4	170426_pos_1-30_MS277_HB_541	MS	277	MS277	HB	541	39 Frontopolar (BA10fp)	Associative cortex	139
+6	170426_pos_1-30_MS517_HC_199	MS	517	MS517	HC	199	39 Frontopolar (BA10fp)	Associative cortex	221
+2	170426_pos_1-30_MS56_HA_315	MS	56	MS56	HA	315	39 Frontopolar (BA10fp)	Associative cortex	71
+8	170426_pos_1-30_MS693_HD_674	MS	693	MS693	HD	674	39 Frontopolar (BA10fp)	Associative cortex	325
+4	170426_pos_1-30_MS296_HB_361	MS	296	MS296	HB	361	46 Prefrontal Medial (BA10m)	Associative cortex	160
+6	170426_pos_1-30_MS490_HC_169	MS	490	MS490	HC	169	46 Prefrontal Medial (BA10m)	Associative cortex	191
+8	170426_pos_1-30_MS662_HD_129	MS	662	MS662	HD	129	46 Prefrontal Medial (BA10m)	Associative cortex	291
+2	170426_pos_1-30_MS73_HA_1	MS	73	MS73	HA	1	46 Prefrontal Medial (BA10m)	Associative cortex	90
+1	170426_BM_pos_1-30_MS33_HA_147	MS	33	MS33	HA	147	50 Orbitofrontal (BA11)	Associative cortex	46
+4	170426_pos_1-30_MS285_HB_403	MS	285	MS285	HB	403	50 Orbitofrontal (BA11)	Associative cortex	148
+6	170426_pos_1-30_MS535_HC_320	MS	535	MS535	HC	320	50 Orbitofrontal (BA11)	Associative cortex	241
+8	170426_pos_1-30_MS682_HD_516	MS	682	MS682	HD	516	50 Orbitofrontal (BA11)	Associative cortex	313
+1	170426_BM_pos_1-30_MS21_HA_428	MS	21	MS21	HA	428	17 1ary Visual Anterior (BA17a)	Primary cortex	33
+4	170426_pos_1-30_MS258_HB_429	MS	258	MS258	HB	429	17 1ary Visual Anterior (BA17a)	Primary cortex	118
+6	170426_pos_1-30_MS538_HC_271	MS	538	MS538	HC	271	17 1ary Visual Anterior (BA17a)	Primary cortex	244
+8	170426_pos_1-30_MS675_HD_463	MS	675	MS675	HD	463	17 1ary Visual Anterior (BA17a)	Primary cortex	305
+1	170426_BM_pos_1-30_MS19_HA_295	MS	19	MS19	HA	295	14 1ary Visual Posterior (BA17p)	Primary cortex	30
+4	170426_pos_1-30_MS301_HB_679	MS	301	MS301	HB	679	14 1ary Visual Posterior (BA17p)	Primary cortex	166
+6	170426_pos_1-30_MS540_HC_688	MS	540	MS540	HC	688	14 1ary Visual Posterior (BA17p)	Primary cortex	246
+8	170426_pos_1-30_MS643_HD_402	MS	643	MS643	HD	402	14 1ary Visual Posterior (BA17p)	Primary cortex	270
+1	170426_BM_pos_1-30_MS9_HA_381	MS	9	MS9	HA	381	27 2ary/3ary Visual Anterior (BA18/19a)	Secondary cortex	19
+4	170426_pos_1-30_MS280_HB_634	MS	280	MS280	HB	634	27 2ary/3ary Visual Anterior (BA18/19a)	Secondary cortex	142
+6	170426_pos_1-30_MS480_HC_697	MS	480	MS480	HC	697	27 2ary/3ary Visual Anterior (BA18/19a)	Secondary cortex	180
+6	170426_pos_1-30_MS533_HC_124	MS	533	MS533	HC	124	27 2ary/3ary Visual Anterior (BA18/19a)	Secondary cortex	239
+8	170426_pos_1-30_MS699_HD_549	MS	699	MS699	HD	549	27 2ary/3ary Visual Anterior (BA18/19a)	Secondary cortex	331
+4	170426_pos_1-30_MS289_HB_625	MS	289	MS289	HB	625	10 2ary/3ary Visual Posterior (BA18/19p)	Secondary cortex	152
+6	170426_pos_1-30_MS475_HC_689	MS	475	MS475	HC	689	10 2ary/3ary Visual Posterior (BA18/19p)	Secondary cortex	175
+2	170426_pos_1-30_MS60_HA_492	MS	60	MS60	HA	492	10 2ary/3ary Visual Posterior (BA18/19p)	Secondary cortex	75
+8	170426_pos_1-30_MS694_HD_50	MS	694	MS694	HD	50	10 2ary/3ary Visual Posterior (BA18/19p)	Secondary cortex	326
+1	170426_BM_pos_1-30_MS25_HA_409	MS	25	MS25	HA	409	33 Anterior Inferior Temporal (BA20a)	Associative cortex	37
+4	170426_pos_1-30_MS292_HB_286	MS	292	MS292	HB	286	33 Anterior Inferior Temporal (BA20a)	Associative cortex	156
+6	170426_pos_1-30_MS512_HC_587	MS	512	MS512	HC	587	33 Anterior Inferior Temporal (BA20a)	Associative cortex	216
+8	170426_pos_1-30_MS663_HD_335	MS	663	MS663	HD	335	33 Anterior Inferior Temporal (BA20a)	Associative cortex	292
+1	170426_BM_pos_1-30_MS1_HA_259	MS	1	MS1	HA	259	25 Posterior Inferior Temporal (BA20p)	Associative cortex	11
+4	170426_pos_1-30_MS302_HB_618	MS	302	MS302	HB	618	25 Posterior Inferior Temporal (BA20p)	Associative cortex	167
+6	170426_pos_1-30_MS524_HC_341	MS	524	MS524	HC	341	25 Posterior Inferior Temporal (BA20p)	Associative cortex	229
+8	170426_pos_1-30_MS669_HD_594	MS	669	MS669	HD	594	25 Posterior Inferior Temporal (BA20p)	Associative cortex	298
+1	170426_BM_pos_1-30_MS35_HA_254	MS	35	MS35	HA	254	37 2ary Auditory Anterior (BA21a)	Secondary cortex	48
+4	170426_pos_1-30_MS271_HB_298	MS	271	MS271	HB	298	37 2ary Auditory Anterior (BA21a)	Secondary cortex	133
+6	170426_pos_1-30_MS502_HC_225	MS	502	MS502	HC	225	37 2ary Auditory Anterior (BA21a)	Secondary cortex	205
+8	170426_pos_1-30_MS646_HD_422	MS	646	MS646	HD	422	37 2ary Auditory Anterior (BA21a)	Secondary cortex	273
+4	170426_pos_1-30_MS278_HB_382	MS	278	MS278	HB	382	11 2ary Auditory Posterior (BA21p)	Secondary cortex	140
+7	170426_pos_1-30_MS546_HC_51	MS	546	MS546	HC	51	11 2ary Auditory Posterior (BA21p)	Secondary cortex	253
+2	170426_pos_1-30_MS65_HA_177	MS	65	MS65	HA	177	11 2ary Auditory Posterior (BA21p)	Secondary cortex	81
+8	170426_pos_1-30_MS665_HD_243	MS	665	MS665	HD	243	11 2ary Auditory Posterior (BA21p)	Secondary cortex	294
+8	170426_pos_1-30_MS706_HD_699	MS	706	MS706	HD	699	11 2ary Auditory Posterior (BA21p)	Secondary cortex	339
+4	170426_pos_1-30_MS249_HB_471	MS	249	MS249	HB	471	26 2ary Auditory, language (BA22a)	Secondary cortex	108
+6	170426_pos_1-30_MS507_HC_455	MS	507	MS507	HC	455	26 2ary Auditory, language (BA22a)	Secondary cortex	210
+2	170426_pos_1-30_MS58_HA_650	MS	58	MS58	HA	650	26 2ary Auditory, language (BA22a)	Secondary cortex	73
+8	170426_pos_1-30_MS684_HD_589	MS	684	MS684	HD	589	26 2ary Auditory, language (BA22a)	Secondary cortex	315
+1	170426_BM_pos_1-30_MS7_HA_37	MS	7	MS7	HA	37	28 2ary Auditory, Wernicke (BA22p)	Secondary cortex	17
+4	170426_pos_1-30_MS238_HB_161	MS	238	MS238	HB	161	28 2ary Auditory, Wernicke (BA22p)	Secondary cortex	96
+6	170426_pos_1-30_MS520_HC_54	MS	520	MS520	HC	54	28 2ary Auditory, Wernicke (BA22p)	Secondary cortex	224
+8	170426_pos_1-30_MS689_HD_78	MS	689	MS689	HD	78	28 2ary Auditory, Wernicke (BA22p)	Secondary cortex	320
+4	170426_pos_1-30_MS262_HB_448	MS	262	MS262	HB	448	8  Cingulate Posterior (BA23a)	Limbic cortex	123
+7	170426_pos_1-30_MS544_HC_170	MS	544	MS544	HC	170	8  Cingulate Posterior (BA23a)	Limbic cortex	251
+2	170426_pos_1-30_MS55_HA_168	MS	55	MS55	HA	168	8  Cingulate Posterior (BA23a)	Limbic cortex	70
+8	170426_pos_1-30_MS656_HD_637	MS	656	MS656	HD	637	8  Cingulate Posterior (BA23a)	Limbic cortex	284
+6	170426_pos_1-30_MS499_HC_110	MS	499	MS499	HC	110	24 Cingulate Posterior (BA23p)	Limbic cortex	201
+8	170426_pos_1-30_MS654_HD_195	MS	654	MS654	HD	195	24 Cingulate Posterior (BA23p)	Limbic cortex	282
+2	170426_pos_1-30_MS68_HA_354	MS	68	MS68	HA	354	24 Cingulate Posterior (BA23p)	Limbic cortex	84
+1	170426_BM_pos_1-30_MS29_HA_299	MS	29	MS29	HA	299	48 Cingulate Anterior (BA24)	Limbic cortex	41
+4	170426_pos_1-30_MS244_HB_26	MS	244	MS244	HB	26	48 Cingulate Anterior (BA24)	Limbic cortex	103
+6	170426_pos_1-30_MS505_HC_559	MS	505	MS505	HC	559	48 Cingulate Anterior (BA24)	Limbic cortex	208
+8	170426_pos_1-30_MS685_HD_530	MS	685	MS685	HD	530	48 Cingulate Anterior (BA24)	Limbic cortex	316
+4	170426_pos_1-30_MS276_HB_372	MS	276	MS276	HB	372	42 Cingulate Subcallosal (BA25)	Limbic cortex	138
+6	170426_pos_1-30_MS527_HC_485	MS	527	MS527	HC	485	42 Cingulate Subcallosal (BA25)	Limbic cortex	232
+2	170426_pos_1-30_MS62_HA_648	MS	62	MS62	HA	648	42 Cingulate Subcallosal (BA25)	Limbic cortex	78
+8	170426_pos_1-30_MS681_HD_332	MS	681	MS681	HD	332	42 Cingulate Subcallosal (BA25)	Limbic cortex	312
+1	170426_BM_pos_1-30_MS20_HA_189	MS	20	MS20	HA	189	5  Retrosplenial (BA29/30)	Limbic cortex	31
+1	170426_BM_pos_1-30_MS46_HA_691	MS	46	MS46	HA	691	5  Retrosplenial (BA29/30)	Limbic cortex	60
+4	170426_pos_1-30_MS279_HB_437	MS	279	MS279	HB	437	5  Retrosplenial (BA29/30)	Limbic cortex	141
+6	170426_pos_1-30_MS531_HC_257	MS	531	MS531	HC	257	5  Retrosplenial (BA29/30)	Limbic cortex	237
+8	170426_pos_1-30_MS640_HD_53	MS	640	MS640	HD	53	5  Retrosplenial (BA29/30)	Limbic cortex	266
+4	170426_pos_1-30_MS309_HB_63	MS	309	MS309	HB	63	18 1ary Somatosensory (BA3/1/2)	Primary cortex	174
+6	170426_pos_1-30_MS511_HC_370	MS	511	MS511	HC	370	18 1ary Somatosensory (BA3/1/2)	Primary cortex	215
+8	170426_pos_1-30_MS674_HD_204	MS	674	MS674	HD	204	18 1ary Somatosensory (BA3/1/2)	Primary cortex	304
+2	170426_pos_1-30_MS76_HA_119	MS	76	MS76	HA	119	18 1ary Somatosensory (BA3/1/2)	Primary cortex	93
+4	170426_pos_1-30_MS259_HB_465	MS	259	MS259	HB	465	47 Cingulate Posterior (BA31)	Limbic cortex	119
+6	170426_pos_1-30_MS495_HC_600	MS	495	MS495	HC	600	47 Cingulate Posterior (BA31)	Limbic cortex	197
+8	170426_pos_1-30_MS637_HD_128	MS	637	MS637	HD	128	47 Cingulate Posterior (BA31)	Limbic cortex	263
+2	170426_pos_1-30_MS64_HA_539	MS	64	MS64	HA	539	47 Cingulate Posterior (BA31)	Limbic cortex	80
+4	170426_pos_1-30_MS304_HB_591	MS	304	MS304	HB	591	49 Cingulate Anterior (BA32)	Limbic cortex	169
+6	170426_pos_1-30_MS483_HC_694	MS	483	MS483	HC	694	49 Cingulate Anterior (BA32)	Limbic cortex	184
+6	170426_pos_1-30_MS497_HC_28	MS	497	MS497	HC	28	49 Cingulate Anterior (BA32)	Limbic cortex	199
+2	170426_pos_1-30_MS59_HA_244	MS	59	MS59	HA	244	49 Cingulate Anterior (BA32)	Limbic cortex	74
+8	170426_pos_1-30_MS679_HD_265	MS	679	MS679	HD	265	49 Cingulate Anterior (BA32)	Limbic cortex	309
+4	170426_pos_1-30_MS250_HB_486	MS	250	MS250	HB	486	40 Cingulate Anterior (BA32g)	Limbic cortex	109
+6	170426_pos_1-30_MS501_HC_504	MS	501	MS501	HC	504	40 Cingulate Anterior (BA32g)	Limbic cortex	204
+2	170426_pos_1-30_MS53_HA_296	MS	53	MS53	HA	296	40 Cingulate Anterior (BA32g)	Limbic cortex	68
+8	170426_pos_1-30_MS690_HD_21	MS	690	MS690	HD	21	40 Cingulate Anterior (BA32g)	Limbic cortex	321
+4	170426_pos_1-30_MS282_HB_246	MS	282	MS282	HB	246	6  Anterior Middle Temporal (BA37-aMT)	Secondary cortex	145
+6	170426_pos_1-30_MS515_HC_318	MS	515	MS515	HC	318	6  Anterior Middle Temporal (BA37-aMT)	Secondary cortex	219
+8	170426_pos_1-30_MS641_HD_640	MS	641	MS641	HD	640	6  Anterior Middle Temporal (BA37-aMT)	Secondary cortex	268
+2	170426_pos_1-30_MS77_HA_357	MS	77	MS77	HA	357	6  Anterior Middle Temporal (BA37-aMT)	Secondary cortex	94
+1	170426_BM_pos_1-30_MS22_HA_104	MS	22	MS22	HA	104	19 Posterior Middle Temporal (BA37-pMT)	Secondary cortex	34
+4	170426_pos_1-30_MS297_HB_106	MS	297	MS297	HB	106	19 Posterior Middle Temporal (BA37-pMT)	Secondary cortex	161
+6	170426_pos_1-30_MS489_HC_690	MS	489	MS489	HC	690	19 Posterior Middle Temporal (BA37-pMT)	Secondary cortex	190
+8	170426_pos_1-30_MS661_HD_386	MS	661	MS661	HD	386	19 Posterior Middle Temporal (BA37-pMT)	Secondary cortex	290
+1	170426_BM_pos_1-30_MS13_HA_436	MS	13	MS13	HA	436	20 Posterior Fusiform (BA37m)	Secondary cortex	24
+4	170426_pos_1-30_MS256_HB_22	MS	256	MS256	HB	22	20 Posterior Fusiform (BA37m)	Secondary cortex	116
+6	170426_pos_1-30_MS539_HC_150	MS	539	MS539	HC	150	20 Posterior Fusiform (BA37m)	Secondary cortex	245
+4	170426_pos_1-30_MS305_HB_665	MS	305	MS305	HB	665	43 Temporopolar (BA38)	Associative cortex	170
+6	170426_pos_1-30_MS510_HC_410	MS	510	MS510	HC	410	43 Temporopolar (BA38)	Associative cortex	213
+8	170426_pos_1-30_MS697_HD_579	MS	697	MS697	HD	579	43 Temporopolar (BA38)	Associative cortex	329
+2	170426_pos_1-30_MS69_HA_483	MS	69	MS69	HA	483	43 Temporopolar (BA38)	Associative cortex	85
+4	170426_pos_1-30_MS284_HB_41	MS	284	MS284	HB	41	41 Angular (BA39)	Associative cortex	147
+7	170426_pos_1-30_MS548_HC_427	MS	548	MS548	HC	427	41 Angular (BA39)	Associative cortex	255
+2	170426_pos_1-30_MS61_HA_214	MS	61	MS61	HA	214	41 Angular (BA39)	Associative cortex	77
+8	170426_pos_1-30_MS667_HD_89	MS	667	MS667	HD	89	41 Angular (BA39)	Associative cortex	296
+2	170426_BM_pos_1-30_MS50_HA_43	MS	50	MS50	HA	43	15 1ary Motor (BA4)	Primary cortex	64
+4	170426_pos_1-30_MS254_HB_379	MS	254	MS254	HB	379	15 1ary Motor (BA4)	Primary cortex	114
+6	170426_pos_1-30_MS503_HC_322	MS	503	MS503	HC	322	15 1ary Motor (BA4)	Primary cortex	206
+8	170426_pos_1-30_MS666_HD_462	MS	666	MS666	HD	462	15 1ary Motor (BA4)	Primary cortex	295
+1	170426_BM_pos_1-30_MS2_HA_502	MS	2	MS2	HA	502	2  Anterior Supramarginal (BA40a)	Associative cortex	12
+4	170426_pos_1-30_MS293_HB_144	MS	293	MS293	HB	144	2  Anterior Supramarginal (BA40a)	Associative cortex	157
+6	170426_pos_1-30_MS525_HC_224	MS	525	MS525	HC	224	2  Anterior Supramarginal (BA40a)	Associative cortex	230
+8	170426_pos_1-30_MS691_HD_337	MS	691	MS691	HD	337	2  Anterior Supramarginal (BA40a)	Associative cortex	323
+1	170426_BM_pos_1-30_MS26_HA_615	MS	26	MS26	HA	615	31 Supramarginal Posterior (BA40p)	Associative cortex	38
+4	170426_pos_1-30_MS290_HB_535	MS	290	MS290	HB	535	31 Supramarginal Posterior (BA40p)	Associative cortex	153
+6	170426_pos_1-30_MS479_HC_404	MS	479	MS479	HC	404	31 Supramarginal Posterior (BA40p)	Associative cortex	179
+8	170426_pos_1-30_MS677_HD_58	MS	677	MS677	HD	58	31 Supramarginal Posterior (BA40p)	Associative cortex	307
+4	170426_pos_1-30_MS287_HB_264	MS	287	MS287	HB	264	16 1ary Auditory (BA41/42)	Primary cortex	150
+6	170426_pos_1-30_MS476_HC_339	MS	476	MS476	HC	339	16 1ary Auditory (BA41/42)	Primary cortex	176
+8	170426_pos_1-30_MS639_HD_580	MS	639	MS639	HD	580	16 1ary Auditory (BA41/42)	Primary cortex	265
+2	170426_pos_1-30_MS63_HA_159	MS	63	MS63	HA	159	16 1ary Auditory (BA41/42)	Primary cortex	79
+1	170426_BM_pos_1-30_MS36_HA_518	MS	36	MS36	HA	518	32 Ventrolateral Prefrontal, Broca (BA44)	Associative cortex	49
+4	170426_pos_1-30_MS283_HB_231	MS	283	MS283	HB	231	32 Ventrolateral Prefrontal, Broca (BA44)	Associative cortex	146
+6	170426_pos_1-30_MS481_HC_399	MS	481	MS481	HC	399	32 Ventrolateral Prefrontal, Broca (BA44)	Associative cortex	182
+8	170426_pos_1-30_MS642_HD_206	MS	642	MS642	HD	206	32 Ventrolateral Prefrontal, Broca (BA44)	Associative cortex	269
+1	170426_BM_pos_1-30_MS45_HA_592	MS	45	MS45	HA	592	45 Ventrolateral Prefrontal, Broca (BA45)	Associative cortex	59
+4	170426_pos_1-30_MS267_HB_36	MS	267	MS267	HB	36	45 Ventrolateral Prefrontal, Broca (BA45)	Associative cortex	128
+6	170426_pos_1-30_MS526_HC_670	MS	526	MS526	HC	670	45 Ventrolateral Prefrontal, Broca (BA45)	Associative cortex	231
+8	170426_pos_1-30_MS645_HD_178	MS	645	MS645	HD	178	45 Ventrolateral Prefrontal, Broca (BA45)	Associative cortex	272
+4	170426_pos_1-30_MS306_HB_326	MS	306	MS306	HB	326	44 Dorsolateral Prefrontal (BA46)	Associative cortex	171
+6	170426_pos_1-30_MS523_HC_232	MS	523	MS523	HC	232	44 Dorsolateral Prefrontal (BA46)	Associative cortex	228
+8	170426_pos_1-30_MS701_HD_358	MS	701	MS701	HD	358	44 Dorsolateral Prefrontal (BA46)	Associative cortex	334
+2	170426_pos_1-30_MS71_HA_467	MS	71	MS71	HA	467	44 Dorsolateral Prefrontal (BA46)	Associative cortex	88
+4	170426_pos_1-30_MS240_HB_19	MS	240	MS240	HB	19	7  Orbitofrontal (BA47)	Associative cortex	98
+6	170426_pos_1-30_MS498_HC_146	MS	498	MS498	HC	146	7  Orbitofrontal (BA47)	Associative cortex	200
+2	170426_pos_1-30_MS52_HA_555	MS	52	MS52	HA	555	7  Orbitofrontal (BA47)	Associative cortex	67
+8	170426_pos_1-30_MS673_HD_61	MS	673	MS673	HD	61	7  Orbitofrontal (BA47)	Associative cortex	303
+1	170426_BM_pos_1-30_MS11_HA_42	MS	11	MS11	HA	42	30 Premotor Anterior Lateral (BA6a)	Secondary cortex	22
+4	170426_pos_1-30_MS291_HB_548	MS	291	MS291	HB	548	30 Premotor Anterior Lateral (BA6a)	Secondary cortex	155
+6	170426_pos_1-30_MS485_HC_277	MS	485	MS485	HC	277	30 Premotor Anterior Lateral (BA6a)	Secondary cortex	186
+8	170426_pos_1-30_MS638_HD_83	MS	638	MS638	HD	83	30 Premotor Anterior Lateral (BA6a)	Secondary cortex	264
+4	170426_pos_1-30_MS260_HB_554	MS	260	MS260	HB	554	22 Premotor Medial (BA6m)	Secondary cortex	120
+6	170426_pos_1-30_MS506_HC_345	MS	506	MS506	HC	345	22 Premotor Medial (BA6m)	Secondary cortex	209
+2	170426_pos_1-30_MS54_HA_52	MS	54	MS54	HA	52	22 Premotor Medial (BA6m)	Secondary cortex	69
+8	170426_pos_1-30_MS678_HD_283	MS	678	MS678	HD	283	22 Premotor Medial (BA6m)	Secondary cortex	308
+6	170426_pos_1-30_MS532_HC_39	MS	532	MS532	HC	39	12 Premotor Posterior (BA6p)	Secondary cortex	238
+2	170426_pos_1-30_MS66_HA_252	MS	66	MS66	HA	252	12 Premotor Posterior (BA6p)	Secondary cortex	82
+1	170426_BM_pos_1-30_MS30_HA_287	MS	30	MS30	HA	287	13 Premotor Precentral (BA6prc)	Secondary cortex	42
+6	170426_pos_1-30_MS492_HC_23	MS	492	MS492	HC	23	13 Premotor Precentral (BA6prc)	Secondary cortex	194
+4	170426_pos_1-30_MS298_HB_68	MS	298	MS298	HB	68	4  Anterior Superior Parietal (BA5/BA7a)	Associative cortex	162
+6	170426_pos_1-30_MS514_HC_174	MS	514	MS514	HC	174	4  Anterior Superior Parietal (BA5/BA7a)	Associative cortex	218
+2	170426_pos_1-30_MS57_HA_331	MS	57	MS57	HA	331	4  Anterior Superior Parietal (BA5/BA7a)	Associative cortex	72
+8	170426_pos_1-30_MS703_HD_388	MS	703	MS703	HD	388	4  Anterior Superior Parietal (BA5/BA7a)	Associative cortex	336
+1	170426_BM_pos_1-30_MS5_HA_98	MS	5	MS5	HA	98	29 Precuneus (BA7m)	Associative cortex	15
+4	170426_pos_1-30_MS242_HB_160	MS	242	MS242	HB	160	29 Precuneus (BA7m)	Associative cortex	101
+6	170426_pos_1-30_MS493_HC_680	MS	493	MS493	HC	680	29 Precuneus (BA7m)	Associative cortex	195
+8	170426_pos_1-30_MS652_HD_87	MS	652	MS652	HD	87	29 Precuneus (BA7m)	Associative cortex	280
+1	170426_BM_pos_1-30_MS15_HA_490	MS	15	MS15	HA	490	3  Posterior Superior Parietal (BA7p)	Associative cortex	26
+4	170426_pos_1-30_MS246_HB_449	MS	246	MS246	HB	449	3  Posterior Superior Parietal (BA7p)	Associative cortex	105
+6	170426_pos_1-30_MS477_HC_572	MS	477	MS477	HC	572	3  Posterior Superior Parietal (BA7p)	Associative cortex	177
+8	170426_pos_1-30_MS655_HD_666	MS	655	MS655	HD	666	3  Posterior Superior Parietal (BA7p)	Associative cortex	283
+1	170426_BM_pos_1-30_MS3_HA_16	MS	3	MS3	HA	16	21 FEF Lateral (BA8)	Secondary cortex	13
+6	170426_pos_1-30_MS478_HC_641	MS	478	MS478	HC	641	21 FEF Lateral (BA8)	Secondary cortex	178
+8	170426_pos_1-30_MS635_HD_365	MS	635	MS635	HD	365	21 FEF Lateral (BA8)	Secondary cortex	261
+1	170426_BM_pos_1-30_MS28_HA_187	MS	28	MS28	HA	187	36 FEF Medial (BA8m)	Secondary cortex	40
+4	170426_pos_1-30_MS245_HB_619	MS	245	MS245	HB	619	36 FEF Medial (BA8m)	Secondary cortex	104
+6	170426_pos_1-30_MS494_HC_376	MS	494	MS494	HC	376	36 FEF Medial (BA8m)	Secondary cortex	196
+8	170426_pos_1-30_MS698_HD_387	MS	698	MS698	HD	387	36 FEF Medial (BA8m)	Secondary cortex	330
+1	170426_BM_pos_1-30_MS43_HA_66	MS	43	MS43	HA	66	34 Dorsolateral Prefrontal (BA9)	Associative cortex	57
+4	170426_pos_1-30_MS299_HB_38	MS	299	MS299	HB	38	34 Dorsolateral Prefrontal (BA9)	Associative cortex	163
+7	170426_pos_1-30_MS543_HC_590	MS	543	MS543	HC	590	34 Dorsolateral Prefrontal (BA9)	Associative cortex	250
+8	170426_pos_1-30_MS650_HD_346	MS	650	MS650	HD	346	34 Dorsolateral Prefrontal (BA9)	Associative cortex	277
+1	170426_BM_pos_1-30_MS41_HA_261	MS	41	MS41	HA	261	35 Dorsolateral Prefrontal Medial (BA9m)	Associative cortex	55
+4	170426_pos_1-30_MS251_HB_653	MS	251	MS251	HB	653	35 Dorsolateral Prefrontal Medial (BA9m)	Associative cortex	111
+6	170426_pos_1-30_MS528_HC_622	MS	528	MS528	HC	622	35 Dorsolateral Prefrontal Medial (BA9m)	Associative cortex	233
+8	170426_pos_1-30_MS704_HD_401	MS	704	MS704	HD	401	35 Dorsolateral Prefrontal Medial (BA9m)	Associative cortex	337
+1	170426_BM_pos_1-30_MS4_HA_556	MS	4	MS4	HA	556	65 Hippocampus, CA1	Limbic cortex	14
+4	170426_pos_1-30_MS268_HB_458	MS	268	MS268	HB	458	65 Hippocampus, CA1	Limbic cortex	129
+6	170426_pos_1-30_MS486_HC_205	MS	486	MS486	HC	205	65 Hippocampus, CA1	Limbic cortex	187
+8	170426_pos_1-30_MS670_HD_454	MS	670	MS670	HD	454	65 Hippocampus, CA1	Limbic cortex	299
+1	170426_BM_pos_1-30_MS16_HA_149	MS	16	MS16	HA	149	55 Hippocampus, CA3 / Dentate Gyrus	Limbic cortex	27
+4	170426_pos_1-30_MS266_HB_424	MS	266	MS266	HB	424	55 Hippocampus, CA3 / Dentate Gyrus	Limbic cortex	127
+6	170426_pos_1-30_MS519_HC_601	MS	519	MS519	HC	601	55 Hippocampus, CA3 / Dentate Gyrus	Limbic cortex	223
+8	170426_pos_1-30_MS649_HD_570	MS	649	MS649	HD	570	55 Hippocampus, CA3 / Dentate Gyrus	Limbic cortex	276
+4	170426_pos_1-30_MS243_HB_194	MS	243	MS243	HB	194	57 Caudate	Basal_Ganglia	102
+6	170426_pos_1-30_MS521_HC_126	MS	521	MS521	HC	126	57 Caudate	Basal_Ganglia	226
+8	170426_pos_1-30_MS705_HD_501	MS	705	MS705	HD	501	57 Caudate	Basal_Ganglia	338
+2	170426_pos_1-30_MS72_HA_432	MS	72	MS72	HA	432	57 Caudate	Basal_Ganglia	89
+1	170426_BM_pos_1-30_MS34_HA_237	MS	34	MS34	HA	237	1  Cerebellar Grey Matter	Cerebellum	47
+4	170426_pos_1-30_MS300_HB_308	MS	300	MS300	HB	308	1  Cerebellar Grey Matter	Cerebellum	164
+7	170426_pos_1-30_MS549_HC_647	MS	549	MS549	HC	647	1  Cerebellar Grey Matter	Cerebellum	256
+8	170426_pos_1-30_MS686_HD_34	MS	686	MS686	HD	34	1  Cerebellar Grey Matter	Cerebellum	317
+1	170426_BM_pos_1-30_MS47_HA_30	MS	47	MS47	HA	30	75 Cerebellar White Matter	Cerebellum	61
+4	170426_pos_1-30_MS253_HB_443	MS	253	MS253	HB	443	75 Cerebellar White Matter	Cerebellum	113
+6	170426_pos_1-30_MS534_HC_211	MS	534	MS534	HC	211	75 Cerebellar White Matter	Cerebellum	240
+8	170426_pos_1-30_MS657_HD_197	MS	657	MS657	HD	197	75 Cerebellar White Matter	Cerebellum	285
+1	170426_BM_pos_1-30_MS12_HA_596	MS	12	MS12	HA	596	73 Corpus Callosum Anterior	White_matter	23
+4	170426_pos_1-30_MS281_HB_251	MS	281	MS281	HB	251	73 Corpus Callosum Anterior	White_matter	144
+6	170426_pos_1-30_MS513_HC_191	MS	513	MS513	HC	191	73 Corpus Callosum Anterior	White_matter	217
+8	170426_pos_1-30_MS695_HD_683	MS	695	MS695	HD	683	73 Corpus Callosum Anterior	White_matter	327
+4	170426_pos_1-30_MS239_HB_531	MS	239	MS239	HB	531	74 Corpus Callosum Posterior	White_matter	97
+6	170426_pos_1-30_MS482_HC_423	MS	482	MS482	HC	423	74 Corpus Callosum Posterior	White_matter	183
+8	170426_pos_1-30_MS680_HD_24	MS	680	MS680	HD	24	74 Corpus Callosum Posterior	White_matter	310
+2	170426_pos_1-30_MS75_HA_116	MS	75	MS75	HA	116	74 Corpus Callosum Posterior	White_matter	92
+1	170426_BM_pos_1-30_MS8_HA_692	MS	8	MS8	HA	692	59 Deep Nuclei - Dentate Nucleus	Cerebellum	18
+4	170426_pos_1-30_MS274_HB_270	MS	274	MS274	HB	270	59 Deep Nuclei - Dentate Nucleus	Cerebellum	136
+8	170426_pos_1-30_MS700_HD_336	MS	700	MS700	HD	336	59 Deep Nuclei - Dentate Nucleus	Cerebellum	332
+2	170426_pos_1-30_MS70_HA_494	MS	70	MS70	HA	494	59 Deep Nuclei - Dentate Nucleus	Cerebellum	86
+1	170426_BM_pos_1-30_MS40_HA_577	MS	40	MS40	HA	577	71 External Capsule	White_matter	53
+4	170426_pos_1-30_MS261_HB_342	MS	261	MS261	HB	342	71 External Capsule	White_matter	122
+6	170426_pos_1-30_MS500_HC_695	MS	500	MS500	HC	695	71 External Capsule	White_matter	202
+6	170426_pos_1-30_MS504_HC_162	MS	504	MS504	HC	162	71 External Capsule	White_matter	207
+8	170426_pos_1-30_MS683_HD_567	MS	683	MS683	HD	567	71 External Capsule	White_matter	314
+1	170426_BM_pos_1-30_MS48_HA_506	MS	48	MS48	HA	506	54 Entorhinal Cortex	Limbic cortex	62
+4	170426_pos_1-30_MS273_HB_616	MS	273	MS273	HB	616	54 Entorhinal Cortex	Limbic cortex	135
+7	170426_pos_1-30_MS547_HC_451	MS	547	MS547	HC	451	54 Entorhinal Cortex	Limbic cortex	254
+8	170426_pos_1-30_MS651_HD_209	MS	651	MS651	HD	209	54 Entorhinal Cortex	Limbic cortex	279
+4	170426_pos_1-30_MS257_HB_347	MS	257	MS257	HB	347	64 Globus Pallidus	Basal_Ganglia	117
+6	170426_pos_1-30_MS487_HC_582	MS	487	MS487	HC	582	64 Globus Pallidus	Basal_Ganglia	188
+8	170426_pos_1-30_MS647_HD_481	MS	647	MS647	HD	481	64 Globus Pallidus	Basal_Ganglia	274
+2	170426_pos_1-30_MS74_HA_498	MS	74	MS74	HA	498	64 Globus Pallidus	Basal_Ganglia	91
+1	170426_BM_pos_1-30_MS38_HA_460	MS	38	MS38	HA	460	69 Hypothalamus	Hypothalamus	51
+4	170426_pos_1-30_MS272_HB_102	MS	272	MS272	HB	102	69 Hypothalamus	Hypothalamus	134
+6	170426_pos_1-30_MS491_HC_207	MS	491	MS491	HC	207	69 Hypothalamus	Hypothalamus	193
+8	170426_pos_1-30_MS676_HD_474	MS	676	MS676	HD	474	69 Hypothalamus	Hypothalamus	306
+1	170426_BM_pos_1-30_MS23_HA_121	MS	23	MS23	HA	121	72 Internal Capsule	White_matter	35
+4	170426_pos_1-30_MS270_HB_171	MS	270	MS270	HB	171	72 Internal Capsule	White_matter	131
+6	170426_pos_1-30_MS537_HC_425	MS	537	MS537	HC	425	72 Internal Capsule	White_matter	243
+8	170426_pos_1-30_MS671_HD_360	MS	671	MS671	HD	360	72 Internal Capsule	White_matter	301
+1	170426_BM_pos_1-30_MS31_HA_482	MS	31	MS31	HA	482	23 Insular Anterior Cortex	Associative cortex	44
+4	170426_pos_1-30_MS247_HB_629	MS	247	MS247	HB	629	23 Insular Anterior Cortex	Associative cortex	106
+7	170426_pos_1-30_MS545_HC_649	MS	545	MS545	HC	649	23 Insular Anterior Cortex	Associative cortex	252
+8	170426_pos_1-30_MS660_HD_664	MS	660	MS660	HD	664	23 Insular Anterior Cortex	Associative cortex	288
+1	170426_BM_pos_1-30_MS14_HA_140	MS	14	MS14	HA	140	53 Insular Posterior Cortex	Associative cortex	25
+4	170426_pos_1-30_MS255_HB_469	MS	255	MS255	HB	469	53 Insular Posterior Cortex	Associative cortex	115
+6	170426_pos_1-30_MS484_HC_662	MS	484	MS484	HC	662	53 Insular Posterior Cortex	Associative cortex	185
+8	170426_pos_1-30_MS692_HD_6	MS	692	MS692	HD	6	53 Insular Posterior Cortex	Associative cortex	324
+1	170426_BM_pos_1-30_MS27_HA_459	MS	27	MS27	HA	459	68 Medial Dorsal Thalamus	Thalamus	39
+4	170426_pos_1-30_MS252_HB_208	MS	252	MS252	HB	208	68 Medial Dorsal Thalamus	Thalamus	112
+6	170426_pos_1-30_MS522_HC_447	MS	522	MS522	HC	447	68 Medial Dorsal Thalamus	Thalamus	227
+8	170426_pos_1-30_MS702_HD_623	MS	702	MS702	HD	623	68 Medial Dorsal Thalamus	Thalamus	335
+1	170426_BM_pos_1-30_MS6_HA_5	MS	6	MS6	HA	5	56 Nucleus Accumbens	Basal_Ganglia	16
+4	170426_pos_1-30_MS295_HB_120	MS	295	MS295	HB	120	56 Nucleus Accumbens	Basal_Ganglia	159
+7	170426_pos_1-30_MS542_HC_62	MS	542	MS542	HC	62	56 Nucleus Accumbens	Basal_Ganglia	249
+8	170426_pos_1-30_MS653_HD_400	MS	653	MS653	HD	400	56 Nucleus Accumbens	Basal_Ganglia	281
+1	170426_BM_pos_1-30_MS24_HA_183	MS	24	MS24	HA	183	51 Piriform Cortex	Primary cortex	36
+4	170426_pos_1-30_MS303_HB_476	MS	303	MS303	HB	476	51 Piriform Cortex	Primary cortex	168
+4	170426_pos_1-30_MS308_HB_693	MS	308	MS308	HB	693	51 Piriform Cortex	Primary cortex	173
+8	170426_pos_1-30_MS687_HD_393	MS	687	MS687	HD	393	51 Piriform Cortex	Primary cortex	318
+1	170426_BM_pos_1-30_MS10_HA_384	MS	10	MS10	HA	384	9  2ary Somatosensory Cortex	Secondary cortex	20
+4	170426_pos_1-30_MS307_HB_659	MS	307	MS307	HB	659	9  2ary Somatosensory Cortex	Secondary cortex	172
+6	170426_pos_1-30_MS488_HC_696	MS	488	MS488	HC	696	9  2ary Somatosensory Cortex	Secondary cortex	189
+6	170426_pos_1-30_MS509_HC_477	MS	509	MS509	HC	477	9  2ary Somatosensory Cortex	Secondary cortex	212
+8	170426_pos_1-30_MS688_HD_611	MS	688	MS688	HD	611	9  2ary Somatosensory Cortex	Secondary cortex	319
+1	170426_BM_pos_1-30_MS32_HA_362	MS	32	MS32	HA	362	61 Pulvinar Thalamus	Thalamus	45
+4	170426_pos_1-30_MS286_HB_521	MS	286	MS286	HB	521	61 Pulvinar Thalamus	Thalamus	149
+6	170426_pos_1-30_MS508_HC_609	MS	508	MS508	HC	609	61 Pulvinar Thalamus	Thalamus	211
+8	170426_pos_1-30_MS668_HD_95	MS	668	MS668	HD	95	61 Pulvinar Thalamus	Thalamus	297
+4	170426_pos_1-30_MS288_HB_397	MS	288	MS288	HB	397	58 Putamen	Basal_Ganglia	151
+6	170426_pos_1-30_MS496_HC_239	MS	496	MS496	HC	239	58 Putamen	Basal_Ganglia	198
+2	170426_pos_1-30_MS51_HA_273	MS	51	MS51	HA	273	58 Putamen	Basal_Ganglia	66
+8	170426_pos_1-30_MS644_HD_367	MS	644	MS644	HD	367	58 Putamen	Basal_Ganglia	271
+1	170426_BM_pos_1-30_MS44_HA_644	MS	44	MS44	HA	644	62 Red Nucleus	Midbrain	58
+4	170426_pos_1-30_MS264_HB_175	MS	264	MS264	HB	175	62 Red Nucleus	Midbrain	125
+8	170426_pos_1-30_MS648_HD_294	MS	648	MS648	HD	294	62 Red Nucleus	Midbrain	275
+4	170426_pos_1-30_MS269_HB_430	MS	269	MS269	HB	430	63 Substantia Nigra	Basal_Ganglia	130
+6	170426_pos_1-30_MS536_HC_528	MS	536	MS536	HC	528	63 Substantia Nigra	Basal_Ganglia	242
+8	170426_pos_1-30_MS636_HD_44	MS	636	MS636	HD	44	63 Substantia Nigra	Basal_Ganglia	262
+2	170426_pos_1-30_MS67_HA_479	MS	67	MS67	HA	479	63 Substantia Nigra	Basal_Ganglia	83
+1	170426_BM_pos_1-30_MS37_HA_657	MS	37	MS37	HA	657	66 Subiculum	Limbic cortex	50
+4	170426_pos_1-30_MS237_HB_505	MS	237	MS237	HB	505	66 Subiculum	Limbic cortex	95
+6	170426_pos_1-30_MS529_HC_192	MS	529	MS529	HC	192	66 Subiculum	Limbic cortex	234
+8	170426_pos_1-30_MS658_HD_698	MS	658	MS658	HD	698	66 Subiculum	Limbic cortex	286
+8	170426_pos_1-30_MS672_HD_138	MS	672	MS672	HD	138	66 Subiculum	Limbic cortex	302
+1	170426_BM_pos_1-30_MS18_HA_305	MS	18	MS18	HA	305	60 Superior Colliculus	Midbrain	29
+4	170426_pos_1-30_MS275_HB_421	MS	275	MS275	HB	421	60 Superior Colliculus	Midbrain	137
+6	170426_pos_1-30_MS518_HC_510	MS	518	MS518	HC	510	60 Superior Colliculus	Midbrain	222
+1	170426_BM_pos_1-30_MS39_HA_233	MS	39	MS39	HA	233	67 Ventral Anterior Thalamus	Thalamus	52
+4	170426_pos_1-30_MS248_HB_445	MS	248	MS248	HB	445	67 Ventral Anterior Thalamus	Thalamus	107
+7	170426_pos_1-30_MS541_HC_268	MS	541	MS541	HC	268	67 Ventral Anterior Thalamus	Thalamus	248
+8	170426_pos_1-30_MS659_HD_433	MS	659	MS659	HD	433	67 Ventral Anterior Thalamus	Thalamus	287
+2	170426_BM_pos_1-30_MS49_HA_686	MS	49	MS49	HA	686	70 Ventral Lateral Thalamus	Thalamus	63
+4	170426_pos_1-30_MS265_HB_599	MS	265	MS265	HB	599	70 Ventral Lateral Thalamus	Thalamus	126
+6	170426_pos_1-30_MS516_HC_49	MS	516	MS516	HC	49	70 Ventral Lateral Thalamus	Thalamus	220
+8	170426_pos_1-30_MS696_HD_148	MS	696	MS696	HD	148	70 Ventral Lateral Thalamus	Thalamus	328
